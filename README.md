@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Oi 👋, eu sou o Gabriel!</h1>
 <br>
-<h2 align="center">Estou estudando, para conseguir meu primeiro emprego como Cientista de Dados</h2>
+<h2 align="center">Estou estudando para conseguir meu primeiro emprego como Cientista de Dados</h2>
 <br>
 
 <h2 align="center">Interesses atuais</h2>
