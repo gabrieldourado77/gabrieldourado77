@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 <h3 align="center">
 Ciência de Dados <br>
 Python <br>
-Microsoft Power BI<br>
+Microsoft Power BI <br>
 Business Intelligence <br>
+Banco de dados <br>
 </h3
 
 <br><br>
@@ -32,11 +33,7 @@ Business Intelligence <br>
 
 <br>
 
-<h3 align="center">Contatos </h3>
+<h3 align="center">Se quiser me conhecer melhor, acesse o meu perfil no LinkedIn</h3>
 <p  align="center">
-<a href="https://linkedin.com/in/gabrieldouradosantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrieldouradosantos" height="30" width="40" /></a>
-<a href="https://instagram.com/gabrieldourado7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrieldourado7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabrieldouradosantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrieldouradosantos" height="30" width="50" /></a>
 </p>
-
-<p align="center">📫 Email comercial: gabrieldouradosantos712@gmail.com</p>
-
