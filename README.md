@@ -7,16 +7,16 @@ Here are some ideas to get you started:
 
 <h1 align="center">Oi 👋, eu sou o Gabriel!</h1>
 <br>
-<h2 align="center">Estou estudando para conseguir meu primeiro emprego como Cientista de Dados</h2>
+<h2 align="center">Estou estudando Desenvolvimento de Software na FATEC Diadema e buscando o meu primeiro emprego</h2>
 <br>
 
 <h2 align="center">Interesses atuais</h2>
 <h3 align="center">
 Ciência de Dados <br>
+Engenharia de Software <br>
 Python <br>
 Microsoft Power BI <br>
 Business Intelligence <br>
-Banco de dados <br>
 </h3
 
 <br><br>
