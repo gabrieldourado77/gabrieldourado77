@@ -7,15 +7,16 @@ Here are some ideas to get you started:
 
 <h1 align="center">Oi 👋, meu nome é Gabriel!</h1>
 <br>
-<h2 align="center">Estou estudando Desenvolvimento de Software Multiplataforma, na FATEC Diadema e <br>buscando um estágio como <br>Desenvolvedor ou Cientista de dados
+<h2 align="center">Estou estudando Desenvolvimento de Software Multiplataforma, na FATEC Diadema <br> e buscando um estágio como Desenvolvedor ou Cientista de dados
 </h2>
 <br>
 
 <h2 align="center">Interesses atuais</h2>
 <h3 align="center">
+Desenvolvimento de Software <br>
+Python <br>
 Ciência de Dados <br>
 Engenharia de Software <br>
-Python <br>
 Microsoft Power BI <br>
 Business Intelligence <br>
 </h3
