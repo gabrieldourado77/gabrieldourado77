@@ -5,9 +5,9 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Oi 👋, eu sou o Gabriel!</h1>
+<h1 align="center">Oi 👋, meu nome é Gabriel!</h1>
 <br>
-<h2 align="center">Estou estudando Desenvolvimento de Software na FATEC Diadema e <br>buscando o meu primeiro emprego como Cientista de Dados
+<h2 align="center">Estou estudando Desenvolvimento de Software Multiplataforma, na FATEC Diadema e <br>buscando um estágio como <br>Desenvolvedor ou Cientista de dados
 </h2>
 <br>
 
