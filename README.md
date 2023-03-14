@@ -19,7 +19,7 @@ Microsoft Power BI <br>
 Business Intelligence <br>
 </h3
 
-<br><br>
+<br>
 
 <h2 align="center">Algumas linguagens que sei utilizar</h2>
 
