@@ -30,5 +30,5 @@ Business Intelligence <br>
 
 <h3 align="center">Se quiser me conhecer melhor, acesse o meu perfil no LinkedIn</h3>
 <p  align="center">
-<a href="https://linkedin.com/in/gabrieldouradosantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrieldouradosantos" height="30" width="50" /></a>
+<a href="https://linkedin.com/in/gabrieldouradosantos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrieldouradosantos" height="30" width="50" /></a>
 </p>
