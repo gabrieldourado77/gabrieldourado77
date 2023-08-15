@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Oi 👋, meu nome é Gabriel!</h1>
 <br>
-<h2 align="center">Estou estudando Desenvolvimento de Software Multiplataforma, na FATEC Diadema</h2>
+<h2 align="center">Estou estudando Desenvolvimento de Software Multiplataforma, na FATEC Diadema e<br>
+  buscando um emprego ou estágio na área</h2>
 <br>
 
 <h2 align="center">Interesses atuais</h2>
