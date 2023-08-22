@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 <h3 align="center">
 Desenvolvimento de Software <br>
 Java <br>
+MySQL <br>
 Python <br>
 Ciência de Dados <br>
 Microsoft Power BI <br>
